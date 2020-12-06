@@ -1,2 +1,2 @@
 Training project with:
-Layered Architecture, Servlet API, JDBC, MySQL, JSTL, JSP, Localisation
+Layered Architecture, Servlet API, JDBC, MySQL, JSTL, JSP, Localization
